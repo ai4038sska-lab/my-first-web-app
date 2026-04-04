@@ -1,1 +1,1 @@
-cd $HOME/progate_path/deploy_github_pages/deploy_github_pages
+
